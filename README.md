@@ -25,7 +25,7 @@
 1. 克隆项目
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/yangjin15/ai-chat
 cd ai-chat
 ```
 
